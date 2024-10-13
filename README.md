@@ -1,4 +1,4 @@
-In this project, I build Money Manger Application by applying concepts from the MERN stack framework.
+In this project, I build a Money Manger Application by applying concepts from the MERN stack framework.
 
 ### Refer to the image below:
 
